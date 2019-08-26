@@ -1,0 +1,45 @@
+#include<bits/stdc++.h>
+#include<string.h>
+using namespace std;
+int main()
+{
+    string s1,s2,s3;
+    cin>>s1;
+    cin>>s2;
+    cin>>s3;
+    if(s1.compare("vertebrado")==0)
+    {
+        if(s2.compare("mamifero")==0)
+        {
+            if(s3.compare("onivoro")==0)
+                cout<<"homem"<<endl;
+            else if(s3.compare("herbivoro")==0)
+            cout<<"vaca"<<endl;
+        }
+        if(s2.compare("ave")==0)
+        {
+           if(s3.compare("carnivoro")==0)
+                cout<<"aguia"<<endl;
+            else if(s3.compare("onivoro")==0)
+            cout<<"pomba"<<endl;
+        }
+    }
+    else if(s1.compare("invertebrado")==0)
+    {
+        if(s2.compare("inseto")==0)
+        {
+            if(s3.compare("hematofago")==0)
+                cout<<"pulga"<<endl;
+            else if(s3.compare("herbivoro")==0)
+            cout<<"lagarta"<<endl;
+        }
+        if(s2.compare("anelideo")==0)
+        {
+           if(s3.compare("hematofago")==0)
+                cout<<"sanguessuga"<<endl;
+            else if(s3.compare("onivoro")==0)
+            cout<<"minhoca"<<endl;
+        }
+    }
+    return 0;
+}

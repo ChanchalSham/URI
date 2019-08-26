@@ -1,0 +1,6 @@
+H:\URI\uri1014\uri1014\bin\Debug\uri1014.exe.config
+H:\URI\uri1014\uri1014\bin\Debug\uri1014.exe
+H:\URI\uri1014\uri1014\bin\Debug\uri1014.pdb
+H:\URI\uri1014\uri1014\obj\Debug\uri1014.csprojResolveAssemblyReference.cache
+H:\URI\uri1014\uri1014\obj\Debug\uri1014.exe
+H:\URI\uri1014\uri1014\obj\Debug\uri1014.pdb

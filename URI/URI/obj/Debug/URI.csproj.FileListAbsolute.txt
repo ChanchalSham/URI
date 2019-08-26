@@ -1,0 +1,9 @@
+H:\C#_Code\URI\URI\bin\Debug\URI.exe.config
+H:\C#_Code\URI\URI\bin\Debug\URI.exe
+H:\C#_Code\URI\URI\bin\Debug\URI.pdb
+H:\C#_Code\URI\URI\obj\Debug\URI.csprojResolveAssemblyReference.cache
+H:\C#_Code\URI\URI\obj\Debug\URI.exe
+H:\C#_Code\URI\URI\obj\Debug\URI.pdb
+H:\URI\URI\URI\bin\Debug\URI.exe.config
+H:\URI\URI\URI\obj\Debug\URI.exe
+H:\URI\URI\URI\obj\Debug\URI.pdb

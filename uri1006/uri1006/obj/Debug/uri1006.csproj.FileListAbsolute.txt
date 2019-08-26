@@ -1,0 +1,5 @@
+H:\URI\uri1006\uri1006\bin\Debug\uri1006.exe.config
+H:\URI\uri1006\uri1006\bin\Debug\uri1006.exe
+H:\URI\uri1006\uri1006\bin\Debug\uri1006.pdb
+H:\URI\uri1006\uri1006\obj\Debug\uri1006.exe
+H:\URI\uri1006\uri1006\obj\Debug\uri1006.pdb

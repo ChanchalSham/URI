@@ -1,0 +1,7 @@
+H:\C#_Code\uri1003\uri1003\bin\Debug\uri1003.exe.config
+H:\URI\uri1003\uri1003\bin\Debug\uri1003.exe.config
+H:\URI\uri1003\uri1003\bin\Debug\uri1003.exe
+H:\URI\uri1003\uri1003\bin\Debug\uri1003.pdb
+H:\URI\uri1003\uri1003\obj\Debug\uri1003.csprojResolveAssemblyReference.cache
+H:\URI\uri1003\uri1003\obj\Debug\uri1003.exe
+H:\URI\uri1003\uri1003\obj\Debug\uri1003.pdb

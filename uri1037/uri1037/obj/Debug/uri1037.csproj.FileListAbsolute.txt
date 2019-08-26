@@ -1,0 +1,6 @@
+H:\URI\uri1037\uri1037\bin\Debug\uri1037.exe.config
+H:\URI\uri1037\uri1037\bin\Debug\uri1037.exe
+H:\URI\uri1037\uri1037\bin\Debug\uri1037.pdb
+H:\URI\uri1037\uri1037\obj\Debug\uri1037.csprojResolveAssemblyReference.cache
+H:\URI\uri1037\uri1037\obj\Debug\uri1037.exe
+H:\URI\uri1037\uri1037\obj\Debug\uri1037.pdb
